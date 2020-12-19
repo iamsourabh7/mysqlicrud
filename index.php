@@ -19,7 +19,7 @@
 <div class="container">
 	<div class="jumbotron">
 	<h1>First automatate project Welcome</h1>
-	<p> pipeline executed with DB change and ELB</p>
+	<p> pipeline executed with DB change and ELB with 2 server</p>
 </div>
 </div>
 <?php 
