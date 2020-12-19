@@ -19,7 +19,7 @@
 <div class="container">
 	<div class="jumbotron">
 	<h1>First automatate project Welcome</h1>
-	<p> first test</p>
+	<p> pipeline executed with DB change</p>
 </div>
 </div>
 <?php 
