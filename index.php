@@ -18,7 +18,7 @@
 ?>
 <div class="container">
 	<div class="jumbotron">
-	<h1>First automatate project Welcome</h1>
+	<h1>Welcome</h1>
 	<p> Github + Jenkins + Sonarqube + Deployment with Database </p>
 </div>
 </div>
